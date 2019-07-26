@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=anyAge\ anyName
+comment0.target=ForFun(int,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ \r\n
+comment1.params=
+comment1.target=void\ endGame()
+comment1.text=\r\n\ method\ when\ end\ the\ the\ game\r\n
+comment2.params=
+comment2.target=void\ doCancel()
+comment2.text=\r\n\ cancel\r\n
+numComments=3

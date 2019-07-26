@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Start()
+comment0.text=\r\n\ Constructor\ \r\n
+comment1.params=
+comment1.target=void\ exportScore()
+comment1.text=\r\n\ here\ is\ to\ put\ the\ scores\ to\ the\ file\r\n
+comment2.params=
+comment2.target=void\ run()
+comment2.text=\r\n\ \ this\ method\ is\ to\ run\ the\ game,\ which\ mode\ you\ are\ going\ to\ play\r\n
+comment3.params=
+comment3.target=void\ newPlayer()
+comment3.text=\r\n\ This\ method\ is\ to\ set\ your\ name\ and\ your\ age\r\n
+numComments=4

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Questions()
+comment0.text=\r\n\ Constructor\ \r\n
+comment1.params=
+comment1.target=void\ setAllQuestion()
+comment1.text=\r\n\ adding\ the\ questions\ and\ the\ options\ on\ the\ Arraylist.\r\n
+comment2.params=
+comment2.target=void\ setAllAnswer()
+comment2.text=\r\n\ setting\ all\ the\ correct\ answers.\r\n
+comment3.params=index
+comment3.target=java.lang.String\ question(int)
+comment3.text=\r\n\ this\ method\ is\ to\ call\ all\ the\ questions\r\n
+comment4.params=index
+comment4.target=java.lang.String\ getAnswer(int)
+comment4.text=\r\n\ to\ return\ the\ answer\r\n
+comment5.params=
+comment5.target=int\ getNumberOfQuestions()
+numComments=6
